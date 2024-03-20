@@ -55,9 +55,16 @@ const ProfComponent = () => {
         </Texts>
       </Slide>
       <Slide direction="right">
-        <Profile>
+        {/* <Profile>
           <img
             src="https://res.cloudinary.com/dkpvcnel8/image/upload/v1688117183/sharon_vd0ac9.jpg"
+            alt="profile"
+          />
+        </Profile> */}
+
+        <Profile>
+          <img
+            src="https://res.cloudinary.com/dkpvcnel8/image/upload/v1710931935/sharonAdemba_tx6fnu.jpg"
             alt="profile"
           />
         </Profile>
