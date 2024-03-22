@@ -59,7 +59,7 @@ const ProfComponent = () => {
           <img
             src="https://res.cloudinary.com/dkpvcnel8/image/upload/v1688117183/sharon_vd0ac9.jpg"
             alt="profile"
-          />
+/>
         </Profile> */}
 
         <Profile>
